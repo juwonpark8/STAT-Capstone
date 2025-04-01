@@ -1,7 +1,7 @@
 # STAT-Capstone
 
 **Agenda** 
-- FINISH ANALYSIS PLAN BY 4/4 (Friday Afternoon) 
+- FINISH ANALYSIS PLAN BY 4/4 (Friday Afternoon before 3:30 pm) 
   - no set length, however long it takes to get every requirement in (10 page max with APPENDIX OF code + graphics - include relevant graphics) 
   - page of context (what's the question, what's the problem) + our dataset (how we calculated) + what is plan for analysis + why is that the plan
   - do not include student names 
